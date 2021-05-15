@@ -12,6 +12,9 @@ Water & Portal Shader
 ![Alt Text](https://media.giphy.com/media/OJBJbIvFFxpUwF9Mo3/giphy.gif)
 
 
+Low Res On Poly Models
+--
+![Alt Text](https://github.com/oceansam/ToonShading/blob/main/Image_Props/Pixel%20Render%20Texture%201.png)
 
 Shader Files
 --
